@@ -81,4 +81,4 @@ __pycache__
 # Allow to exist but don't include it in the repo
 user_song_list.h
 
-git@github.com:parrotpirate/qmk_firmware.git
+/keyboards/ergodox_ez/keymaps/*-sdp/
